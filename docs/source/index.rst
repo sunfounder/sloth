@@ -13,8 +13,10 @@
     👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!
 
 
-Sloth - SunFounder DIY 4-DOF Robot Kit 
-=======================================
+Sloth - SunFounder |link_4-DOF_Robot_Kit|
+=============================================
+
+* |link_Robot_Kit|
 
 .. image:: img/A-1.png
     :width: 400

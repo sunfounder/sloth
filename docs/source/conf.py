@@ -85,4 +85,12 @@ rst_epilog = """
 
     <a href="https://bit.ly/raphaelkit" target="_blank">here</a>
 
+.. |link_Robot_Kit| raw:: html
+
+    <a href="https://www.sunfounder.com/products/arduino-sloth-robot?_pos=16&_sid=4db2897c3&_ss=r" target="_blank">Purchase Link for DIY 4-DOF Robot Kit</a>
+
+.. |link_4-DOF_Robot_Kit| raw:: html
+
+    <a href="https://www.sunfounder.com/products/arduino-sloth-robot?_pos=16&_sid=4db2897c3&_ss=r" target="_blank">DIY 4-DOF Robot Kit</a>
+
 """
